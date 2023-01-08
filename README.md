@@ -64,7 +64,7 @@ sudo wireshark
 ## Ping Start from hare
 **Note : **  Before Ping command please start wireshark select network interface card and start packet capturing
 
-> Open terminal or cmd and type this command 
+> Open terminal or cmd as administrator and type this command 
 
 ```bash
 ping -c5 8.8.8.8
@@ -84,7 +84,7 @@ ip.src == "Your Ip Address" && ip.dst == "Ip which you ping from your terminal"
 ![Alt text](assets/Pasted%20image%2020230108194040.png)
 
 # Arp
-1. open terminal or cmd and tpye this command 
+1. open terminal or cmd as administrator and tpye this command 
 
 ```bash
 arp 192.168.100.1
@@ -104,7 +104,7 @@ arp "your default gatway Address"
 
 # nslookup
 
-> in terminal type 
+> open terminal or cmd as administrator type 
 
 ```bash
 nslookup google.com
@@ -124,7 +124,7 @@ dns contains "google"
 # tracert on Windows
 
 
-> in terminal type 
+> open terminal or cmd as administrator and type
 
 ```bash
 traceroute 8.8.8.8
@@ -138,7 +138,7 @@ traceroute 8.8.8.8
 
 # Route
 
-> in terminal type 
+> open terminal or cmd as administrator and type 
 ```bash
 route
 ```
