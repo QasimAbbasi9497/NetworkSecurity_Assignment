@@ -21,6 +21,8 @@
 winget install WiresharkFoundation.Wireshark
 ```
 
+**Note :**You can also download wireshark from its website just open google and search wireshark download.  
+
 ![Alt text](assets/Pasted%20image%2020230108191037.png)
 
 in this pic you can see there is no any kind of network interface is availabe.
