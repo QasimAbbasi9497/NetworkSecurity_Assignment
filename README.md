@@ -18,7 +18,7 @@
 
 1. open windows powershell as administrator and past this command
 ```powershell
-winget install -e --id WiresharkFoundation.Wireshark
+winget install WiresharkFoundation.Wireshark
 ```
 
 ![Alt text](assets/Pasted%20image%2020230108191037.png)
