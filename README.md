@@ -124,10 +124,16 @@ dns contains "google"
 # tracert on Windows
 
 
-> open terminal or cmd as administrator and type
+> on Linux open terminal and run this command 
 
 ```bash
 traceroute 8.8.8.8
+```
+
+> on windows open cmd as administrator and run this command 
+
+```bash
+tracert 8.8.8.8
 ```
 
 ![Alt text](assets/Pasted%20image%2020230108205113.png)
